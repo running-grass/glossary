@@ -128,7 +128,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Idris 2</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>Idris 2</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>documentation</term></tig></langSet>
