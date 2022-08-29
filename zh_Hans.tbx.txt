@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>example</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>示例</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>interpreter</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>解释器</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>universe hierarchy</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>全域层级</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>argument</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>参数</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>arguments</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>参数</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>implicit arguments</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>隐式参数</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Auto</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>自动</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>annotation</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>注解</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Idris</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>Idris</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>local variables</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>局部变量</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>literate programming</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>文学编程</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cumulativity</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>累积性</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hierarchy</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>层级</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>universes</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>全域</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Frequently Asked Questions</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>常见问题解答</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>FAQ</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>常见问题解答</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>plug-in</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>可插拔</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>javascript</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>javascript</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>eager evaluation</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>及早求值</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Comments</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>注释</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>comprehension</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>推导式</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>overloaded</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>重载</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>literals</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>字面量</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Racket</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>Racket</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Scheme</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>Scheme</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Gambit</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>Gambit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Chez</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>Chez</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pragma</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>编译指令</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>
