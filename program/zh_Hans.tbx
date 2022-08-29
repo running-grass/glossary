@@ -134,6 +134,10 @@
                 <langSet xml:lang="en"><tig><term>documentation</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>文档</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>community</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>社区</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
