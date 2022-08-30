@@ -35,10 +35,6 @@
                 <langSet xml:lang="zh_Hans"><tig><term>隐式参数</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Auto</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>自动</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>annotation</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>注解</term></tig></langSet>
             </termEntry>
