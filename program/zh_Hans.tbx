@@ -134,6 +134,22 @@
                 <langSet xml:lang="en"><tig><term>community</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>社区</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>referential transparency</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>引用透明</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>functional</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>函数式</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dependent types</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>依赖类型</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>total function</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>全函数</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
