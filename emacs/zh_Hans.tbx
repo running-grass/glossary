@@ -228,7 +228,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Basic Undo</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>基础撤销</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>撤销基础</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Basic Files</term></tig></langSet>
