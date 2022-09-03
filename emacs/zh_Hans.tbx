@@ -78,6 +78,38 @@
                 <langSet xml:lang="en"><tig><term>Intro</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>介绍</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>User Input</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>用户输入</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Exiting</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>退出</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Basic</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>基础</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Display</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>显示</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Search</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>搜索</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Fixit</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>修复</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Files</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>文件</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Buffers</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
