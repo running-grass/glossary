@@ -110,6 +110,114 @@
                 <langSet xml:lang="en"><tig><term>Buffers</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>缓冲区</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Windows</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>窗口</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Frames</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>框架</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>International</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>国际化</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Modes</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>模式</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Calendar/Diary</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>日历/日记</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Document View</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>文档视图</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Emacs Server</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>Emacs 服务器</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Printing</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>打印</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Sorting</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>排序</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Recursive Edit</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>递归编辑</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hyperlinking</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>超链接</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Amusements</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>娱乐</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Packages</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>包</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Lossage</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>损失</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Contributing</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>贡献</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Service</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>服务</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Copying</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>复制</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Emacs Invocation</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>Emacs 调用</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Antinews</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>反新闻</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Mac OS / GNUstep</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>Mac OS / GNUstep</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Manifesto</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>宣言</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Key Index</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>键索引</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Option Index</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>选项索引</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Command Index</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>命令索引</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>point</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>游标</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>mark</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>标记</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cursor</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>光标</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
