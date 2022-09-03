@@ -218,6 +218,22 @@
                 <langSet xml:lang="en"><tig><term>cursor</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>光标</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Moving Point</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>移动游标</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Erasing</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>擦除</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Basic Undo</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>基础撤销</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Basic Files</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>文件基础</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
