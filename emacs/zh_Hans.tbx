@@ -52,7 +52,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Stopping</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>退出</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>停止</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>killing</term></tig></langSet>
