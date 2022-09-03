@@ -150,6 +150,182 @@
                 <langSet xml:lang="en"><tig><term>total function</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>全函数</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>operator</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>运算符</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>algebraic data types</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>代数数据类型</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>enumerations</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>枚举</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sum types</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>和类型</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>product type</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>积类型</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>record</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>记录</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>definition</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>定义</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>interface</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>接口</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hole</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>孔</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>compile time</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>编译期</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Compile-Time</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>编译期</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>applicative</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>应用函子</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>functor</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>函子</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>monad</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>单子</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>further read</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>延伸阅读</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>recursion</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>递归</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fold</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>折叠</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>totality check</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>完全性检查</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>traverse</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>遍历</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tutorial</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>教程</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>effect</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>副作用</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>csv</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>csv</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>composition</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>组合</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dependent pair</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>依赖对</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>use case</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>用例</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>schema</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>模式</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>proof</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>证明</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contract</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>契约</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>interfaces</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>接口</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Primitive</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>原语</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>refine</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>细化</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>refine</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>细化</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>primitives</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>原语</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>functional programming</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>函数式编程</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>feature</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>特性</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>prerequisites</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>前置条件</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>programming language</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>编程语言</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>solve</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>解答</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>exercise</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>习题</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>property</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>属性</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>total functions</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>全函数</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>smaller</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>收敛</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>expression</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>表达式</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>expression search</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>表达式搜索</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
