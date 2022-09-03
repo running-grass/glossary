@@ -234,6 +234,142 @@
                 <langSet xml:lang="en"><tig><term>Basic Files</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>文件基础</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Basic Help</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>帮助基础</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Position Info</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>位置信息</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Arguments</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>参数</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Repeating</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>重复</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Basic Minibuffer</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>迷你缓冲区基础</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Basic Minibuffer</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>迷你缓冲区</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Minibuffer File</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>迷你缓冲区文件</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Minibuffer Edit</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>迷你缓冲区编辑</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Repetition</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>重复</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Passwords</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>密码</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Completion Styles</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>补全风格</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Key Help</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>键帮助</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Name Help</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>名称帮助</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Help Mode</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>帮助模式</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Package Keywords</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>包关键字</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Language Help</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>语言帮助</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Misc Help</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>其它帮助</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Setting Mark</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>设置标记</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Marking Objects</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>标记对象</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Using Region</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>使用选区</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>region</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>选取</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Disabled Transient Mark</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>禁用瞬态标记</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Kill Options</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>剪切选项</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>kill</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>剪切</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>yank</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>粘贴</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>delete</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>删除</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>kill-ring</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>剪切环</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Earlier Kills</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>较早的剪切</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Position Registers</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>位置寄存器</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Text Registers</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>文本寄存器</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Rectangle Registers</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>矩形寄存器</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Configuration Registers</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>配置寄存器</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Number Registers</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>数字寄存器</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>File and Buffer Registers</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>文件和缓冲区寄存器</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
