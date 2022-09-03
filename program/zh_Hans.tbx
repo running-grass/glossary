@@ -326,6 +326,66 @@
                 <langSet xml:lang="en"><tig><term>expression search</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>表达式搜索</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>GNU</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>GNU</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>manual</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>手册</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>concept</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>概念</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Important</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>重要</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sequences</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>序列</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Shell</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>Shell</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Programs</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>程序</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Building</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>构建</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Maintaining</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>维护</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>server</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>服务器</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Bugs</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>Bugs</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>option</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>选项</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>position</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>位置</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>file</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>文件</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>buffer</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>缓冲区</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
