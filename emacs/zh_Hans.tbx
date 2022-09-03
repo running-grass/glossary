@@ -14,6 +14,50 @@
                 <langSet xml:lang="en"><tig><term>emacs</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>emacs</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>copyright</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>版权所有</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>text editor</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>文本编辑器</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>extensible</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>可扩展</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>self-documenting</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>自文档</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Screen</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>屏幕</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>key</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>键</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>编辑</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>command</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>命令</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>editing</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>编辑</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Stopping</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>退出</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>killing</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>中止</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
