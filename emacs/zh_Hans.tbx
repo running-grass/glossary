@@ -58,6 +58,26 @@
                 <langSet xml:lang="en"><tig><term>killing</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>中止</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commands</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>命令</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fundamental</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>基本</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Top</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>Top</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Distrib</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>发行</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Intro</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>介绍</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
