@@ -386,6 +386,14 @@
                 <langSet xml:lang="en"><tig><term>buffer</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>缓冲区</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>perform</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>执行</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>function declaration</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>函数声明</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
