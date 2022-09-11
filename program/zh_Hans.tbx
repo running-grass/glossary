@@ -430,6 +430,26 @@
                 <langSet xml:lang="en"><tig><term>hole</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>孔</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>foreign</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>外部</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>code generators</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>代码生成器</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sidenote</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>旁注</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>specifier</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>说明符</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>declaration</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>声明</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
