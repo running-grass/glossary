@@ -450,6 +450,50 @@
                 <langSet xml:lang="en"><tig><term>declaration</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>声明</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>run</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>运行</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>running</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>运行</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>specifiers</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>说明符</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>functions</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>函数</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>form</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>形式</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>FFI</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>FFI</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>side effect</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>副作用：</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>structs</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>结构体</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>finaliser</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>终结器</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>finalisers</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>终结器</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>minimal</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>最小化</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
